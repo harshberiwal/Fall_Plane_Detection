@@ -26,12 +26,12 @@ and pitch using the tan inverse function (atan2).
 4] plane_check() - First checks if the Plane Detection is on, if it is, then turns on the BLUE LED indicator to demonstrate the user of the plane flat surface without any skewness. If the board is placed on a surface which appears flat without any slantness, this plane_check can help you identify that. 
 
 Funtionality proposed in the Project Proposal 
-1] UART
-2] I2C
-3] GPIO 
-4] Interrupts 
-5] Accelrometer 
-6] Bluetooth 
+1) UART
+2) I2C
+3) GPIO 
+4) Interrupts 
+5) Accelrometer 
+6) Bluetooth 
 
 Functionality completed as per the proposal 
 1) UART
@@ -40,7 +40,7 @@ Functionality completed as per the proposal
 4) UART Interrupt 
 5) Accelerometer
 
-1) Bluetooth - The software for Bluetooth is written and the communication was established between the host computer and the FRDM but the data tranmission was incorrect possibly due to the incorrect initialization of the UART1 [not working entirely]. 
+Bluetooth - The software for Bluetooth is written and the communication was established between the host computer and the FRDM but the data tranmission was incorrect possibly due to the incorrect initialization of the UART1 [not working entirely]. 
 
 I proposed for Wireless Air Mouse which would have worked if the data recieved from the FRDM to the computer was correct but it was not. So, to demonstrate for this project I worked on Fall and Plane Detection using the Accelerometer which I proposed. 
 
