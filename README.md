@@ -39,6 +39,7 @@ Functionality completed as per the proposal
 3) GPIO
 4) UART Interrupt 
 5) Accelerometer
+6) SysTick
 
 Bluetooth - The software for Bluetooth is written and the communication was established between the host computer and the FRDM but the data tranmission was incorrect possibly due to the incorrect initialization of the UART1 [not working entirely]. 
 
