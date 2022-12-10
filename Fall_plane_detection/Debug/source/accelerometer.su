@@ -1,0 +1,6 @@
+../source/accelerometer.c:27:5:init_accelerometer	8	static
+../source/accelerometer.c:34:5:test_accelerometer	8	static
+../source/accelerometer.c:45:6:read_full_xyz	40	static
+../source/accelerometer.c:71:6:convert_xyz_to_roll_pitch	40	static
+../source/accelerometer.c:79:7:get_roll	8	static
+../source/accelerometer.c:83:7:get_pitch	8	static

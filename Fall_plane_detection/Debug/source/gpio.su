@@ -1,0 +1,5 @@
+../source/gpio.c:17:6:gpio_init	8	static
+../source/gpio.c:39:6:all_led_off	8	static
+../source/gpio.c:45:6:red_led_on	8	static
+../source/gpio.c:51:6:green_led_on	8	static
+../source/gpio.c:57:6:blue_led_on	8	static

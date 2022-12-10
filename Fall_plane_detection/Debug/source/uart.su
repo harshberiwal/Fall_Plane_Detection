@@ -1,0 +1,13 @@
+D:\CU BOULDER\Coursework\Sem 1 - PES\Fall_plane_detection\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+D:\CU BOULDER\Coursework\Sem 1 - PES\Fall_plane_detection\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+D:\CU BOULDER\Coursework\Sem 1 - PES\Fall_plane_detection\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/uart.c:40:6:Init_UART0	32	static
+../source/uart.c:101:6:Init_Bluetooth	32	static
+../source/uart.c:151:6:UART0_IRQHandler	16	static
+../source/uart.c:188:6:UART1_IRQHandler	16	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\redlib\include\sys\libconfig-arm.h:247:5:__sys_write	32	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\redlib\include\sys\libconfig-arm.h:241:5:__sys_readc	8	static
+../source/uart.c:227:6:transmit_data	24	static
+../source/uart.c:233:9:check_plane_detection	8	static
+../source/uart.c:237:6:reset_plane_detection	8	static
+../source/uart.c:241:9:check_fall_on	8	static

@@ -1,0 +1,8 @@
+../source/command_processor.c:43:6:process_fall_detection	8	static
+../source/command_processor.c:62:6:process_accelerometer	8	static
+../source/command_processor.c:66:6:check_fall_LED	8	static
+../source/command_processor.c:73:6:send_data_to_bluetooth	16	static
+../source/command_processor.c:80:6:get_magnitude	16	static
+../source/command_processor.c:86:6:plane_check	8	static
+../source/command_processor.c:105:6:display_UI	8	static
+../source/command_processor.c:112:6:Delay	24	static
