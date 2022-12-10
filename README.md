@@ -44,7 +44,7 @@ Bluetooth - The software for Bluetooth is written and the communication was esta
 
 I proposed for Wireless Air Mouse which would have worked if the data recieved from the FRDM to the computer was correct but it was not. So, to demonstrate for this project I worked on Fall and Plane Detection using the Accelerometer which I proposed. 
 
-#Key Observations #
+# Key Observations #
 
 1) Configuring UART0 for external peripheral is not straightforward and requires some sort of mux selection which I browsed through the Kl25z reference manual but couldn't find it. It was because the UART0 and the STDIO is shorted and my message from computer to HC-05 Bluetooth Module was getting routed to the COM port connected to the FRDM for serial communication. THe same data was not coming inside the kl25z MCU chip but was reaching the external UART peripheral. 
  
